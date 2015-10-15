@@ -4,4 +4,4 @@ Jekyll with Bootstrap 3.3.5 Sass / SCSS Starter Template.
 
 [View Live](http://rleissner.github.io/jekyll-bootstrap-starter/)
 
-[![Build Status](https://travis-ci.org/rleissner/jekyll-bootstrap-starter.svg)](https://travis-ci.org/rleissner/jekyll-bootstrap-starter)
+[![Build Status](https://travis-ci.org/rleissner/jekyll-bootstrap-starter.svg?branch=gh-pages)](https://travis-ci.org/rleissner/jekyll-bootstrap-starter)
