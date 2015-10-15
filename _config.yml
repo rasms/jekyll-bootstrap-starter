@@ -15,3 +15,5 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+
+exclude: [readme.md]
